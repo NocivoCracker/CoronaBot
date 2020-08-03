@@ -8,7 +8,7 @@ import CovidCommand from './commands/covidCmd';
 class Bot {
     
     client = new Client();
-    token = "NzM4MDU4Njg1MTgzNTU3Njcy.XyGYtw.IyvxWrxraK6XVoS3DmZhdRZW0Os";
+    token = "O token vai aqui.";
     static prefix: string;
 
     constructor (prefix: string) {
